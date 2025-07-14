@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Malla Curricular de Derecho</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Malla Curricular de Derecho</h1>
+        <div class="controls">
+            <button id="show-hide-details">Mostrar/Ocultar Detalles</button>
+            <button id="clear-progress">Reiniciar Avance</button>
+            <div class="progress-bar-container">
+                <div class="progress-bar" id="overall-progress"></div>
+                <span id="progress-text">0% Completado</span>
+            </div>
+        </div>
+    </header>
+
+    <main id="curriculum-grid">
+        </main>
+
+    <footer>
+        <p>&copy; [Tu Nombre] - Malla Interactiva de Derecho</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
