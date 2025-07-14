@@ -20,7 +20,8 @@
     </header>
 
     <main id="curriculum-grid">
-        </main>
+        <!-- El contenido de la malla se generará aquí por script.js -->
+    </main>
 
     <footer>
         <p>&copy; [Tu Nombre] - Malla Interactiva de Derecho</p>
